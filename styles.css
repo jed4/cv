@@ -1,0 +1,143 @@
+body{
+  background-color: #faf3e0;
+  margin: 0;
+}
+/* nav bar */
+.navbar{
+  background-color: #0a043c;
+}
+
+.navbar-brand{
+font-family: 'Lobster', cursive;
+font-weight: bolder;
+color: #630000;
+font-size: 2rem;
+}
+
+.nav-link{
+  color: #810000;
+}
+
+/* section 2 */
+
+h1{
+  text-align: center;
+  padding-top: 10px;
+  font-family: Ubuntu bold;
+  font-weight: bold;
+  margin-top: 50px;
+  color: #493323;
+}
+
+h2{
+text-align: left;
+font-family: 'Bebas Neue', cursive;
+color: #493323;
+font-weight: bold;
+margin-top: 70px;
+}
+
+.Header-image{
+  width: 90%;
+  height: 350px;
+  display: block;
+  margin: auto;
+  border-radius: 8%;
+}
+
+#top-products{
+  text-align: center;
+  font-family: Montserrat;
+
+}
+
+h3{
+  margin-top: 30px;
+  color: #493323;
+  font-weight: bold;
+}
+
+.carousel-item{
+  margin-top: 30px;
+}
+.product-image{
+  border-radius: 10%;
+  width: 85%;
+border-style:outset;
+}
+.ps-xbox{
+  border-style: outset;
+  border-color: #fde8cd;
+}
+
+
+/* section-3 top  selling */
+
+.best-selling-products{
+  text-align: center;
+  margin-left: 30px;
+  padding-right: 30px;
+  padding-left: 45px;
+  border-style: outset;
+  border-color: #fde8cd;
+}
+
+.best-selling-product-images{
+  width: 80%;
+  height: 300px;
+  margin-bottom: 20px;
+  border-style: outset;
+
+}
+
+
+
+/* section-4 Testimonials */
+
+
+em{
+  font-weight: bold;
+}
+
+.comments{
+  text-align: left;
+  padding: 4.5%;
+  padding-top: 0;
+}
+
+.range{
+  border-style: outset;
+  border-width: 4px;
+  margin-top: 20px;
+  background-color: #cdd0cb;
+}
+.testimony {
+margin-left: 30px;
+padding-right: 30px;
+padding-left: 45px;
+}
+
+.carousel-control-next,{
+  width: 10%;
+}
+.carousel-control-prev{
+width: 2%;
+}
+
+/* section 5 footer */
+
+#footer{
+  text-align: center;
+}
+
+.icon-2{
+  margin:5px 30px;
+}
+
+/* ids */
+#top-products, #Best-Selling, #testimonials, #footer{
+  max-width: 95%;
+}
+a{
+  color: #493323;
+}
